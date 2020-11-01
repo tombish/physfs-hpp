@@ -4,7 +4,7 @@ physfs.hpp
 physfs.hpp is a C++ header-only wrapper for the excellent [PhysicsFS library][1] by Ryan C.
 Gordon and others.
 
-The file is based on the [original](https://github.com/kahowell/physfs-cpp) C++ wrapper & the [later](https://github.com/Ybalrid/physfs-hpp/).
+The file is based on the [original](https://github.com/kahowell/physfs-cpp) C++ wrapper & the [later](https://github.com/Ybalrid/physfs-hpp/) header-only wrapper.
 
 [1]: http://icculus.org/physfs
 
