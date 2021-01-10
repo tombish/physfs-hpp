@@ -27,7 +27,7 @@ Then, you can just include `physfs.hpp` and uses it's C++ interface instead of t
 
 Requirements
 ============
-The PhysicsFS library.
+The PhysicsFS library and C++ Standard Library.
 
 Features
 ========
