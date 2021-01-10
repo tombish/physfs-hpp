@@ -174,7 +174,6 @@ namespace physfs {
     }
 
 
-
 #ifdef PHYFSPP_IMPL
 
 #include <streambuf>
